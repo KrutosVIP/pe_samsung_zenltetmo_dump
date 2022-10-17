@@ -1,4 +1,5 @@
 # zenltetmo-user 7.0 NRD90M G928TUVU4EQG3 release-keys
+## PE A10
 - manufacturer: samsung
 - platform: exynos5
 - codename: zenltetmo
